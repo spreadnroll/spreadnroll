@@ -13,6 +13,7 @@ Hi! I'm Fabio, a passionate frontend developer from Italy who has just started h
   - TypeScript
 - **Backend:**
   - Node.js
+  - SQL
 - **Tools & Technologies:**
   - Webpack
   - Babel
