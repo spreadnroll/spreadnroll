@@ -14,6 +14,7 @@ Hi! I'm Fabio, a passionate frontend developer from Italy who has just started h
 - **Backend:**
   - Node.js
   - SQL
+  - MongoDb
 - **Tools & Technologies:**
   - Webpack
   - Babel
