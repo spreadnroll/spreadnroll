@@ -1,6 +1,6 @@
 # Fabio Mariantoni
 
-Hi! I'm Fabio, a passionate frontend developer from Italy who has just started his journey in the world of programming. I'm currently attending a 6-month Fullstack course with Develhope to deepen my skills and acquire new ones.
+Hi! I'm Fabio, a passionate fullstack developer from Italy who has just started his journey in the world of programming. I'm currently attended a 6-month Fullstack course with Develhope during 2024 to deepen my skills and I'm still acquire new ones independently.
 
 ## 🚀 Skills
 - **Frontend:**
