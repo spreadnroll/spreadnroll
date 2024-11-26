@@ -14,9 +14,14 @@ Hi! I'm Fabio, a passionate fullstack developer from Italy who has just started 
 - **Backend:**
   - Node.js
   - SQL
+  - Postgres
+  - Microsoft SQL Server
+  - Docker
   - MongoDb
   - Java
   - Spring (Framework)
+  - Maven
+  - npm
 - **Tools & Technologies:**
   - Webpack
   - Babel
@@ -26,7 +31,11 @@ Hi! I'm Fabio, a passionate fullstack developer from Italy who has just started 
 - **LinkedIn:** [Fabio Mariantoni](https://www.linkedin.com/in/fabio-mariantoni-42b3041bb)
 
 ## 🛠️ Projects
-At the moment, I am working on several projects as part of my studies. Soon, I will share my progress and completed projects here.
+- FurFind: A web app developed in an Agile/Scrum environment during a bootcamp, created with React to facilitate animal adoptions. You can find the code on GitHub - FurFind.
+
+- Lego Website Redesign: A frontend-only redesign of the Lego website, built using React. Code available on [Lego redesign](https://github.com/develhope/FS26-Team1-Project1.git).
+
+- BetaShop: A prototype e-commerce web app built with Java Spring. The code is available on GitHub - BetaShop.
 
 ## 📫 Contact
 Feel free to reach out to me on LinkedIn or through my GitHub profile for any collaboration or questions.
