@@ -31,11 +31,11 @@ Hi! I'm Fabio, a passionate fullstack developer from Italy who has just started 
 - **LinkedIn:** [Fabio Mariantoni](https://www.linkedin.com/in/fabio-mariantoni-42b3041bb)
 
 ## 🛠️ Projects
-- FurFind: A web app developed in an Agile/Scrum environment during a bootcamp, created with React to facilitate animal adoptions. You can find the code on GitHub - FurFind.
+- **FurFind:** A web app developed in an Agile/Scrum environment during a bootcamp, created with React to facilitate animal adoptions. You can find the code on [FurFind](https://github.com/develhope/FS26-Team1-Project3.git).
 
-- Lego Website Redesign: A frontend-only redesign of the Lego website, built using React. Code available on [Lego redesign](https://github.com/develhope/FS26-Team1-Project1.git).
+- **Lego Website Redesign:** A frontend-only redesign of the Lego website, built using React. Code available on [Lego redesign](https://github.com/develhope/FS26-Team1-Project1.git).
 
-- BetaShop: A prototype e-commerce web app built with Java Spring. The code is available on GitHub - BetaShop.
+- **BetaShop:** A prototype e-commerce web app built with Java Spring. The code is available on [BetaShop](https://github.com/spreadnroll/betashop.git).
 
 ## 📫 Contact
 Feel free to reach out to me on LinkedIn or through my GitHub profile for any collaboration or questions.
