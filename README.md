@@ -1,52 +1,98 @@
 # Fabio Mariantoni
 
-Hi! I'm Fabio, a passionate fullstack developer from Italy who has just started his journey in the world of programming. I'm currently attended a 6-month Fullstack course with Develhope during 2024 to deepen my skills and I'm still acquire new ones independently.
+# Hi! I'm Fabio 👋
 
-## 🚀 Skills
-- **Frontend:**
-  - JavaScript
-  - HTML5
-  - CSS
-  - SASS
-  - React
-  - Tailwind
-  - TypeScript
-- **Backend:**
-  - Node.js
-  - SQL
-  - Postgres
-  - Microsoft SQL Server
-  - Docker
-  - MongoDb
-  - Java
-  - Spring (Framework)
-  - Maven
-  - npm
-- **Tools & Technologies:**
-  - Webpack
-  - Babel
+Fullstack Developer with professional experience building scalable web applications. Based in Italy, I combine my bootcamp foundation with hands-on industry experience in cloud-native development.
 
-## 🌐 Connect with me
-- **GitHub:** [spreadnroll](https://github.com/spreadnroll/spreadnroll)
-- **LinkedIn:** [Fabio Mariantoni](https://www.linkedin.com/in/fabio-mariantoni-42b3041bb)
+## 💼 Professional Experience
+
+**Fullstack Developer** (2025)
+- Developed and maintained enterprise web applications using React, TypeScript, and AWS services
+- Built serverless APIs with AWS Lambda and API Gateway
+- Implemented data visualization dashboards with complex state management
+- Worked in Agile/Scrum environment with cross-functional teams
+
+## 🚀 Technical Skills
+
+### Frontend
+- **Languages**: TypeScript, JavaScript (ES6+), HTML5, CSS3, SASS
+- **Frameworks**: React, Redux Toolkit
+- **UI Libraries**: Material-UI (MUI), Tailwind CSS
+- **Tools**: Webpack, Babel, npm, React Split
+
+### Backend
+- **Languages**: Node.js, Java
+- **Frameworks**: Express.js, Spring Boot, Maven
+- **Databases**: PostgreSQL, MongoDB, DynamoDB, Redshift, Microsoft SQL Server, SQLite
+- **Database Tools**: DBeaver, DynamoDB Workbench
+
+### Cloud & DevOps
+- **AWS Services**: Lambda, S3, API Gateway, DynamoDB, Redshift, IAM, CloudWatch, EventBridge, SQS, EC2
+- **Containerization**: Docker
+- **Infrastructure**: Serverless Framework, AWS CLI
+- **CI/CD**: GitHub Actions
+
+### Testing & Tools
+- **Testing**: Jest
+- **API Testing**: Postman
+- **HTTP Clients**: Axios
+- **Version Control**: Git, GitHub, BitBucket, Git Lens
+- **Monitoring**: AWS CloudWatch Logs
+
+### Architecture & Patterns
+- Serverless Architecture
+- RESTful API Design
+- Microservices
+- Event-Driven Architecture
+- Data Pipeline Development
 
 ## 🛠️ Projects
-- **FurFind:** A web app developed in an Agile/Scrum environment during a bootcamp, created with React to facilitate animal adoptions. You can find the code on [FurFind](https://github.com/develhope/FS26-Team1-Project3.git).
 
-- **Lego Website Redesign:** A frontend-only redesign of the Lego website, built using React. Code available on [Lego redesign](https://github.com/develhope/FS26-Team1-Project1.git).
+### BetaShop - E-commerce Platform
+*Java • Spring Boot • PostgreSQL* • Docker*
+- Prototype e-commerce web application with RESTful API
+- [Code](https://github.com/spreadnroll/betashop)
 
-- **BetaShop:** A prototype e-commerce web app built with Java Spring. The code is available on [BetaShop](https://github.com/spreadnroll/betashop.git).
+### FurFind - Pet Adoption Platform
+*React • Node.js • MongoDB*
+- Collaborative project developed in Agile/Scrum environment during bootcamp
+- Facilitates connections between shelters and potential adopters
+- [Code](https://github.com/develhope/FS26-Team1-Project3)
 
-## 📫 Contact
-Feel free to reach out to me on LinkedIn or through my GitHub profile for any collaboration or questions.
+### Pokémon Data Pipeline
+*JavaScript • Node.js • SQLite • PostgreSQL*
+- ETL pipeline to fetch, process, and analyze Pokémon data from PokéAPI
+- Demonstrates data engineering skills with API integration and database management
+- [Code](https://github.com/spreadnroll/pokemon-data-pipeline)
+
+### Lego Website Redesign
+*React • CSS3 • Responsive Design*
+- Frontend redesign of the Lego website focusing on UX improvements
+- [Code](https://github.com/develhope/FS26-Team1-Project1)
+
+## 🌐 Connect With Me
+
+- **LinkedIn**: [Fabio Mariantoni](https://linkedin.com/in/fabio-mariantoni)
+- **GitHub**: [@spreadnroll](https://github.com/spreadnroll)
+
+## 🎓 Education & Training
+
+- **Fullstack Development Bootcamp** - Develhope (2024)
+  - 6-month intensive program covering modern web technologies
 
 ## 🎸 Interests
+
 Outside of coding:
-- **Music:** Heavy Metal, Rock, Alternative
-- **Art**
-- **Literature**
-- **Movies**
-- **Soccer**
+- 🎵 Music: Heavy Metal, Rock, Alternative
+- 🎨 Art
+- 📚 Literature  
+- 🎬 Movies
+- ⚽ Soccer
+
+## 📫 Contact
+
+Feel free to reach out to me on LinkedIn or through my GitHub profile for any collaboration or questions!
+
+---
 
 Thank you for visiting my profile!
-
