@@ -58,7 +58,7 @@ Fullstack Developer with professional experience building scalable web applicati
 - [Code](https://github.com/develhope/FS26-Team1-Project3)
 
 ### Pokémon Data Pipeline
-*JavaScript • Node.js • SQLite • PostgreSQL*
+*JavaScript • Node.js • SQLite • PostgreSQL • Jest*
 - ETL pipeline to fetch, process, and analyze Pokémon data from PokéAPI
 - Demonstrates data engineering skills with API integration and database management
 - [Code](https://github.com/spreadnroll/pokemon-data-pipeline)
