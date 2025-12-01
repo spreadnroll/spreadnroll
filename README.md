@@ -52,7 +52,7 @@ Fullstack Developer with professional experience building scalable web applicati
 - [Code](https://github.com/spreadnroll/betashop)
 
 ### FurFind - Pet Adoption Platform
-*React • Node.js • MongoDB*
+*React • SASS • Node.js • MongoDB*
 - Collaborative project developed in Agile/Scrum environment during bootcamp
 - Facilitates connections between shelters and potential adopters
 - [Code](https://github.com/develhope/FS26-Team1-Project3)
@@ -64,7 +64,7 @@ Fullstack Developer with professional experience building scalable web applicati
 - [Code](https://github.com/spreadnroll/pokemon-data-pipeline)
 
 ### Lego Website Redesign
-*React • CSS3 • Responsive Design*
+*HTML • CSS3 • Responsive Design*
 - Frontend redesign of the Lego website focusing on UX improvements
 - [Code](https://github.com/develhope/FS26-Team1-Project1)
 
