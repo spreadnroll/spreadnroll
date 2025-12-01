@@ -1,5 +1,3 @@
-# Fabio Mariantoni
-
 # Hi! I'm Fabio 👋
 
 Fullstack Developer with professional experience building scalable web applications. Based in Italy, I combine my bootcamp foundation with hands-on industry experience in cloud-native development.
@@ -49,7 +47,7 @@ Fullstack Developer with professional experience building scalable web applicati
 ## 🛠️ Projects
 
 ### BetaShop - E-commerce Platform
-*Java • Spring Boot • PostgreSQL* • Docker*
+*Java • Spring Boot • PostgreSQL • Docker*
 - Prototype e-commerce web application with RESTful API
 - [Code](https://github.com/spreadnroll/betashop)
 
